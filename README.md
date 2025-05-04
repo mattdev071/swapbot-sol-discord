@@ -74,4 +74,4 @@ Node, Express, MongoDB, discord.js, @solana/web3
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](mattdev071@gmail.com) or [telegram](https://t.me/mattdev071)
+If you have any feedback, please reach out to me via [telegram](https://t.me/mattdev071)
