@@ -67,14 +67,11 @@ Start the server
 
 Node, Express, MongoDB, discord.js, @solana/web3
 
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![GPLv3 License](https://img.shields.io/badge/License-Flamingo-red.svg)](https://opensource.org/licenses/)
 
 ## Authors
 
-- [Flamingo](https://www.github.com/gungho0619)
+- [Mattdev](https://www.github.com/mattdev071)
 
 ## Feedback
 
-If you have any feedback, please reach out to me via [mail](tzztson@gmail.com) or [telegram](https://t.me/gungho0619)
+If you have any feedback, please reach out to me via [mail](mattdev071@gmail.com) or [telegram](https://t.me/mattdev071)
